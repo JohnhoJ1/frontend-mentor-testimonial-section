@@ -32,9 +32,9 @@ body {
   font-size: 13px;
 }
 .grid-container {
-  height: 700px;
+  height: 600px;
 
-  width: 1000px;
+  width: 58%;
   display: grid;
 
   gap: 20px;
