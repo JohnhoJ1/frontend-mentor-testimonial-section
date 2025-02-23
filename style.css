@@ -34,7 +34,7 @@ body {
 .grid-container {
   height: 600px;
 
-  width: 70%;
+  width: 1200px;
   display: grid;
 
   gap: 20px;
