@@ -90,6 +90,8 @@ body {
 .dan {
   grid-area: dan;
   background-color: var(--Purple-500);
+  position: relative;
+  z-index: 1;
 }
 .jon {
   grid-area: jon;
@@ -114,4 +116,14 @@ body {
 .attribution {
   position: absolute;
   bottom: 20px;
+}
+.pattern {
+  position: absolute;
+  right: 20px;
+  width: 100px;
+  top: 0;
+  z-index: 1;
+}
+.user-text {
+  z-index: 2;
 }
