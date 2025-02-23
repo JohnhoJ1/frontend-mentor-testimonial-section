@@ -62,7 +62,7 @@ body {
   margin-bottom: 20px;
   padding-top: 0;
 }
-.user img {
+.profile-img {
   border-radius: 50%;
   border: 1px solid rgb(253, 247, 247);
   width: 35px;
@@ -120,7 +120,7 @@ body {
 .pattern {
   position: absolute;
   right: 20px;
-  width: 100px;
+  max-width: 100px;
   top: 0;
   z-index: 1;
 }
